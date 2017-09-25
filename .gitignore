@@ -3,6 +3,8 @@
 #--------------------------#
 
 /app/etc/local.xml
+/app/etc/env.php
+/deploy.php
 
 /media/*
 !/media/.htaccess
