@@ -1,0 +1,1 @@
+/Users/PA/Git/deployer/lib/web/mage/smart-keyboard-handler.js

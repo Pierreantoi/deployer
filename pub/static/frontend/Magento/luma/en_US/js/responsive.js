@@ -1,0 +1,1 @@
+/Users/PA/Git/deployer/vendor/magento/theme-frontend-blank/web/js/responsive.js

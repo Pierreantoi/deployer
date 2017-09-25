@@ -1,0 +1,1 @@
+/Users/PA/Git/deployer/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js
